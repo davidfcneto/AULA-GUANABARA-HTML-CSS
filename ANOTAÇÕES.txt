@@ -1,0 +1,71 @@
+ANOTAÇÕES
+
+
+Módulos Guanabara
+
+01 - Primeiros passos
+02 - Deixando as coisas bonitas
+03 - Colocando protótipo no ar
+04 - Aprofundando conhecimento
+05 - Novas Tecnologias
+
+
+AULA ASSISTIDA
+Como a Internet chega na minha casa? - @Curso em Vídeo HTML5 e CSS3
+
+
+
+
+PROPRIEDADES CSS
+
+seletor
+|-|
+h1 {	(declaração)
+	|-----------------|
+	font-family: Arial;
+	|----------| |-----|
+	propriedade	valor
+}
+
+
+ICONES DE FAVORITOS - FAVICON
+
+
+AULA 19 - OK
+
+
+VIDEO 17
+
+
+
+
+ESTRUTURA BASICA HTML
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> SITE DO DAVID </title> 
+
+	</head>
+
+	<body>
+
+
+	</body>
+</html>
+
+
+
+CAP 3 AULA 2
+
+
+
+
+SIMBOLOS
+
+Simbolos são inseridos com & + o código.
+
+emoji:
+&#x + simbolo do emoji
